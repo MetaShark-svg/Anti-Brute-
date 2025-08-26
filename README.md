@@ -1,4 +1,4 @@
-# Anti-Brute- 🔐
+# Anti-Brute 🔐
 
 ## 🚀 About
 
